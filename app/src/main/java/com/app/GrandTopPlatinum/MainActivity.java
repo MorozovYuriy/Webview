@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
         mWebView.getSettings().setJavaScriptEnabled(true);
 
-        mWebView.loadUrl("your URL");
+        mWebView.loadUrl("http://cerrysite.online/cYZWMq");
 
         mWebView.setWebViewClient(new WebViewClient(){
             @Override

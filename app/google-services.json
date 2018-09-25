@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "659122992442",
+    "firebase_url": "https://grand-top-platinum.firebaseio.com",
+    "project_id": "grand-top-platinum",
+    "storage_bucket": "grand-top-platinum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659122992442:android:fdaa236d8a74924b",
+        "android_client_info": {
+          "package_name": "com.app.GrandTopPlatinum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659122992442-vej7q689e711iriv4e9tnp0np3s1pu7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnmw4WzQLXe0NbNSy6ruFJIJh-ZD-F5Bs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
